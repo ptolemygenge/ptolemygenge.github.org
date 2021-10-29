@@ -1,0 +1,194 @@
+<html>
+ <title>JS.com</title>
+ <head>  
+  
+ 
+ </head>
+
+ <body>
+ <div class="title"><p>J-Skellington</p></div>
+ <div class="square1"></div>
+ 
+ 
+ </body>
+ 
+ <main>
+ <a href="JS website.html" style="color: rgba(0, 0, 0, 0.0);">
+ <button class="btn1">Home</button>
+ </a>
+ <a href="JS website-research.html" style="color: rgba(0,0,0,0.0);">
+ <button class="btn2">Research</button>
+ </a>
+ <a href="JS website-teaching.html" style="color: rgba(0,0,0,0.0)">
+ <button class="btn3">Teaching</button>
+ </a>
+ <a href="JS website-about me.html" style="color: rgba(0, 0, 0, 0.0);">
+ <button class="btn4">About me</button>
+ </a>
+ </main>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<footer>
+ 
+ <div class="square2"><center>-Contact me-</center></div>
+ <div class="contact2">-Email: ******@gmail.com-<br>-twitter: @kjhkjsdf-<br>-insta: @adhshfkjs-</div>
+
+</footer>
+
+
+<style>
+
+.contact2 {
+  color:  whitesmoke;
+  font size: 17px;
+  font-family:  verdana;
+  text-align: center;
+  margin-top: -110px;
+}
+
+.title {
+  color: #e32636;
+  font-size: 70px;
+  font-family: segoe ui;
+  
+  margin-top: 100px;
+  margin-bottom: -40px;
+  text-align: center;
+}
+
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2016/03/31/15/22/album-1293231_1280.png');
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+.square1 {
+  height: 200px;
+  width: 1270px;
+  background-color: black;
+  margin-top: 160px;
+  margin-bottom: -108px;
+
+}
+
+
+.btn1 {
+  margin-left: 180px;
+  margin-top: -40px;
+  height: 40px;
+  width: 110px;
+  font-size: 20px;
+  border: 3px solid;
+  border-color: white;
+  background-color: rgba(255,196,12,0.0);
+  color: white;
+  transition: background-color 1s, border 1s;
+}
+.btn1:hover {
+  background-color: rgba(240, 240, 240, 0.7);
+  transition: background-color 1s, border 1s;
+  cursor: pointer;
+  border: black 3px solid;
+}
+.btn2 {
+ margin-left: 150px;
+ margin-top: -100px;
+ height: 40px;
+  width: 110px;
+  font-size: 20px;
+  border: 3px solid;
+  border-color: white;
+  background-color: rgb(255,196,12,0.0);
+  color: white;
+  transition: background-color 1s, border 1s;
+}
+.btn2:hover {
+  background-color: rgba(240, 240, 240, 0.7);
+  transition: background-color 1s, border 1s;
+  cursor: pointer;
+  border: black 3px solid;
+}
+.btn3 {
+  margin-left: 150px;
+  margin-top: -100px;
+  height: 40px;
+  width: 110px;
+  font-size: 20px;
+  border: 3px solid;
+  border-color: white;
+  background-color: rgb(255,196,12,0.0);
+  color: white;
+  transition: background-color 1s, border 1s;
+}
+.btn3:hover {
+  background-color: rgba(240, 240, 240, 0.7);
+  transition: background-color 1s, border 1s,;
+  cursor: pointer;
+  border:  black 3px solid;
+  
+}
+.btn4 {
+  margin-left: 150px;
+  margin-top: -100px;
+  height: 40px;
+  width: 110px;
+  font-size: 20px;
+  border: 3px solid;
+  border-color: white;
+  background-color: rgb(255,196,12,0.0);
+  color: white;
+  transition: background-color 1s, border 1s;
+}
+.btn4:hover {
+  background-color: rgba(240, 240, 240, 0.7);
+  transition: background-color 1s, border 1s;
+  cursor: pointer;
+  border:  3px solid black;
+}
+.square2 {
+  height:  200px;
+  width:  1270px;
+  background-color:  rgba(0, 0, 0,1.0);
+  margin-top: 40px;
+  margin-right: 0px;
+  padding-right: 0px;
+  font-size:  25px;
+  font-family:  verdana;
+  color: white;
+  
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+</style>
+
+
+
+</html>
